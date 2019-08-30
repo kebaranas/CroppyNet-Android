@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053571752764",
+    "firebase_url": "https://croppy-net-11be2.firebaseio.com",
+    "project_id": "croppy-net-11be2",
+    "storage_bucket": "croppy-net-11be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053571752764:android:35a0c0795a99c93f",
+        "android_client_info": {
+          "package_name": "com.kebaranas.croppynet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053571752764-l63ufqd6j0nv6djbkv73o4fqat5mptem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kebaranas.croppynet",
+            "certificate_hash": "cff7e00db88164a1c416325526c4a62166b02afe"
+          }
+        },
+        {
+          "client_id": "1053571752764-cihj83qha7hvbhe5cgeg65t77s66jt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7p67xIkAFLye5HU677o4215EqllsAPSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053571752764-cihj83qha7hvbhe5cgeg65t77s66jt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

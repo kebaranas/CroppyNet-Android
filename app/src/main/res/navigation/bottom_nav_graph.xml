@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/storeFragment">
+
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="com.kebaranas.croppynet.fragments.home.StoreFragment"
+        android:label="fragment_store"
+        tools:layout="@layout/fragment_store"/>
+    <fragment
+        android:id="@+id/newsFeedFragment"
+        android:name="com.kebaranas.croppynet.fragments.home.NewsFeedFragment"
+        android:label="fragment_news_feed"
+        tools:layout="@layout/fragment_news_feed" />
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="com.kebaranas.croppynet.fragments.home.NotificationsFragment"
+        android:label="fragment_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/messagesFragment"
+        android:name="com.kebaranas.croppynet.fragments.home.MessagesFragment"
+        android:label="fragment_messages"
+        tools:layout="@layout/fragment_messages" />
+</navigation>
